@@ -1,2 +1,2 @@
 # Rangarajan604
-My Details
+  [![Resume PDF](Resum.pdf)
