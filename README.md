@@ -4,6 +4,6 @@
 
 You can view or download my resume using the links below:
 
-- [Resume HTML](https://github.com/yourusername/yourrepository/blob/main/Resum.html)
+- [Resume](https://rangarajan604.github.io/Webside/)
 - [Resume PDF](https://github.com/yourusername/yourrepository/blob/main/Resum.pdf)
 
